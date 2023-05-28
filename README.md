@@ -54,7 +54,8 @@ The creation of an application based on a micro-service architecture to manage i
 ## troisieme partie:
 ### Produits : 
 ![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/29a1423b-759a-4ba1-a005-26e778c5ed31)
-
+### Clients : 
+![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/15b92fa6-2d48-4f29-9ba0-9b55fa52f177)
 
 
 
