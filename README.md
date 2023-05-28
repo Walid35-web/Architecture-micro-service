@@ -48,7 +48,12 @@ The creation of an application based on a micro-service architecture to manage i
 
 ### H2 Console Bill :
 ![WhatsApp Image 2023-05-27 at 22 29 14](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/f4bdb058-8aba-4589-a1e6-f3773b3a32c7)
-![WhatsApp Image 2023-05-27 at 22 29 34](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/83a24b00-18d0-442e-a0b4-cc00127f9d9f)
+![WhatsApp Image 2023-05-27 at 22 29 34](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/83a24b00-18d0-442e-a0b4-
+cc00127f9d9f)
+### H2 Console Product Item : 
+![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/e72fb0f8-fb1d-431f-944b-7455195b952f)
+## troisieme partie:
+### Produits : 
 
 
 
