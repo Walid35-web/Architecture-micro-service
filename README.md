@@ -20,7 +20,11 @@ The creation of an application based on a micro-service architecture to manage i
 6. Create Billing-Service using Open Feign to communicate with Customer-service and Inventory-service 7. Create an Angular client to display an invoice
 7. Create an Angular client to display an invoice
 
-## Angular code in the second branch (Master)
+## Angular code in the second branch (Master) 
+![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/eef7144e-ea36-47b6-8601-eb2e5381db14)
+####checked master
+![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/0c7ecb08-5de3-44d8-bd14-025c90074200)
+
 ## Part One 
 1.create the customer-service microservice to manage customers
 ![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/883e7ff2-8ef8-4590-acf6-6cb80581b96c)
